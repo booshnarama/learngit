@@ -1,2 +1,3 @@
 Hello world!
 This is second line the file.
+This is modified by master user.
