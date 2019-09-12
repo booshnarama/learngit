@@ -1,3 +1,4 @@
 Hello world!
 This is second line the file.
+This is to test the git system on the same file by u1.
 This is modified by master user.
