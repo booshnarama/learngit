@@ -3,3 +3,4 @@ This is second line the file.
 This is to test the git system on the same file by u1.
 This is modified by master user.
 This is to tes the git system by user u2.
+Going to work on same line on same file by u1.
